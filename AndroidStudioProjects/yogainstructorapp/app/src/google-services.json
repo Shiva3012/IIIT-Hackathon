@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383924196755",
+    "project_id": "yogainstructorapp",
+    "storage_bucket": "yogainstructorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383924196755:android:8e3caf44732ab772c14466",
+        "android_client_info": {
+          "package_name": "com.example.yogainstructorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpNbt9ZKouHr4yJOdxh37-G0-ITo5flc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
