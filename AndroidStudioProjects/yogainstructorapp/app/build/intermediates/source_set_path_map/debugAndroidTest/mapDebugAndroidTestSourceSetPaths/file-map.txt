@@ -1,0 +1,6 @@
+com.example.yogainstructorapp.test.app-annotation-experimental-1.3.0-0 C:\Users\shive\.gradle\caches\8.9\transforms\a281f2513ac651197e8e7b9e7cd68d58\transformed\annotation-experimental-1.3.0\res
+com.example.yogainstructorapp.test.app-core-1.5.0-1 C:\Users\shive\.gradle\caches\8.9\transforms\cf883d66e4b585030cede5e6031808d9\transformed\core-1.5.0\res
+com.example.yogainstructorapp.test.app-androidTest-2 C:\Users\shive\AndroidStudioProjects\yogainstructorapp\app\build\generated\res\resValues\androidTest\debug
+com.example.yogainstructorapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\shive\AndroidStudioProjects\yogainstructorapp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.yogainstructorapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\shive\AndroidStudioProjects\yogainstructorapp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.yogainstructorapp.test.app-debugAndroidTest-5 C:\Users\shive\AndroidStudioProjects\yogainstructorapp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
